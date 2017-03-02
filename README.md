@@ -1,3 +1,7 @@
+# Where to use this
+create a crud rest api to interact with the database and communicate to the vue system 
+for single page apps SPA
+
 # django-vue-webpack
 A boilerplate of using Django as backend framework, Vue js and webpack as the frontend setup.
 
